@@ -1,0 +1,2 @@
+Circular Doubly Linklist :-
+A code that displays how to implement circular doubly linkedlist in C++. The display of the program is one thing many would like to learn. Various operations include : Create,delete first/middle/last,Append,Find,Inverse Display,Insert,Modify etc. The code is as concise as it can be.
